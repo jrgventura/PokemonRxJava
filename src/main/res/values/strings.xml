@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokemon App</string>
+    <string name="error">Error: Datos incorrectos</string>
+</resources>
